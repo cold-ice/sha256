@@ -1,0 +1,6 @@
+image:
+{
+  [bootloader]/media/v/Data/zybo/fsbl.elf
+  top.runs/impl_1/top_wrapper.bit
+  /media/v/Data/zybo/u-boot.elf
+}
